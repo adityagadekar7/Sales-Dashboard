@@ -1,16 +1,28 @@
-Project name
-Sales KPI Dashboard
+# Sales KPI Dashboard
 
-Description
-Developed a dynamic Power BI dashboard to track and visualise critical sales KPIs, enabling data-driven decisions across categories, regions, and time periods. The report highlights total revenue, profit margin, customer segments, and product performance, with slicers for interactive filtering.
+## Overview
+An interactive Power BI dashboard to track key sales metrics, including total revenue, profit margin, customer segments, and product performance. Features include slicers for category, country, and year, along with visuals for delivery days and order priorities.
 
-Key features include:
-• Total Revenue and Profit Margin KPIs
-• Monthly trend analysis of sales volume and revenue
-• Segment-wise profit contribution using visual segmentation
-• Order fulfilment analysis with delivery time and order priority metrics
-• Top 5 selling products ranked by units sold
-• Slicer-enabled views for Category, Country, and Year
+## Objectives
+- Provide a centralised view of sales performance.
+- Identify top-performing products and customer segments.
+- Analyse delivery performance and order value by priority.
 
-Skills
-Power BI, DAX, Data Visualisation, Dashboard Design, KPI Reporting, Sales Analytics
+## Key Features
+- Total Revenue (13M) and Profit Margin (11.5%)
+- Annual Sales trend visualisation
+- Profit by Customer Segment
+- Top 5 Selling Products
+- Average Delivery Days and Order Value by Priority
+- Slicers for Category, Country, and Year
+
+## Tools & Technologies
+Power BI, DAX, Data Modelling, KPI Visualisation
+
+## Insights
+- Corporate segment yielded the highest average profit (~34.28%).
+- December had the peak in sales volume and revenue.
+- Critical orders had shortest delivery time but highest value.
+- Staples was the top product with 876 units sold.
+
+---
